@@ -1,0 +1,17 @@
+Resource: https://www.youtube.com/watch?v=rHux0gMZ3Eg&ab_channel=ProgrammingwithMosh
+
+pipenv install django // creates virtual environment
+
+pipenv shell // only at cmd
+
+django-admin startproject storefront .
+
+python manage.py runserver
+
+source C:\Users\al_si\.virtualenvs\storefront-XlQzAhRA\Scripts\activate.bat
+C:\Users\al_si\.virtualenvs\storefront-XlQzAhRA\Scripts\activate.bat
+
+python manage.py startapp playground
+
+pipenv install django-debug-toolbar
+
